@@ -1,0 +1,12 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.rmiranda.deeplinktestapp",
+    "sha256_cert_fingerprints":
+        [
+            "BB:AC:31:13:15:0B:64:E7:E7:E9:E7:B0:D4:CD:82:DD:3D:E6:85:32:B3:E2:E4:37:47:9F:20:7F:8E:BB:9F:C2",
+            "4A:DF:11:A6:47:17:8E:A1:75:BD:AD:40:17:A2:8B:90:4D:4C:DA:C7:EB:F0:17:74:B0:7B:69:5B:CC:C9:D3:63"
+        ]
+  }
+}]
