@@ -1,13 +1,17 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.use_as_origin"
+    ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.rmiranda.deeplinktestapp",
+      "package_name": "io.github.rodrigomirandamarenco.customtabsheaders",
       "sha256_cert_fingerprints":
           [
               "BB:AC:31:13:15:0B:64:E7:E7:E9:E7:B0:D4:CD:82:DD:3D:E6:85:32:B3:E2:E4:37:47:9F:20:7F:8E:BB:9F:C2",
-              "4A:DF:11:A6:47:17:8E:A1:75:BD:AD:40:17:A2:8B:90:4D:4C:DA:C7:EB:F0:17:74:B0:7B:69:5B:CC:C9:D3:63"
+              "4A:DF:11:A6:47:17:8E:A1:75:BD:AD:40:17:A2:8B:90:4D:4C:DA:C7:EB:F0:17:74:B0:7B:69:5B:CC:C9:D3:63",
+              "1E:FE:70:6D:BD:9E:C2:62:EE:EC:92:A8:17:87:93:3A:3F:4F:9D:C2:A7:38:01:C9:31:09:08:0B:1E:11:9B:19"
           ]
     }
   },
